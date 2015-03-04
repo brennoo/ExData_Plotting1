@@ -1,4 +1,4 @@
-# Plot #1
+# Plot #1 - code from my 1st try
 
 # Read data
 data <- read.table("./R/household_power_consumption.txt", sep=";", header=TRUE, stringsAsFactors =FALSE)
